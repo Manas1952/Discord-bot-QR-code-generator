@@ -1,4 +1,4 @@
-# Discord-bot-QR-code-generator
+# Discord-bot-QR-code-generators
 It is **Discord Bot** which generate a **QR Code** corresponding to user input in slash command ```/generateqr```.
 
 ## Overview
